@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin1234",
+    "database": "reduxTask",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
